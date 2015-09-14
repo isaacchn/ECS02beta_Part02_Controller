@@ -30,3 +30,13 @@
 
 # Debug files
 *.dSYM/
+
+#51
+*.LST
+*.OBJ
+*.bak
+*.hex
+*.lnp
+*.M51
+*.lnp
+*.plg

@@ -1,0 +1,4 @@
+Dependencies for Project 'TempCom2Pi', Target 'TempCom2Pi': (DO NOT MODIFY !)
+F (.\ds18b20.c)(0x54B698E4)()
+F (.\Main.c)(0x54B699FA)()
+F (.\ds18b20.h)(0x54B698F0)()
